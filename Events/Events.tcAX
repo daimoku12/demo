@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{40494B9C-BE92-4614-87A9-D50AED196AEA}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="" />
+	<testData />
+	<data />
+	<children>
+		<child key="{0AD41D13-4D4A-43E9-A1E8-333E6A0440A2}">
+			<config nodeName="GeneralEvents" lastOpenedTLB="" generatedCLSID="{A9059D5F-9FF9-4DAD-AF63-8EA2AC62B083}" generatedTLBKey="{EA78D770-D78D-42E6-8F96-347D74870DFB}" generatedEventsKey="{38097F5C-B43E-42E5-A40C-EDC33D7603FE}" generatedTLBDesc="TestComplete GeneralEvents Control - 2021-03-15 10:24:55 AM">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743821" infoControlName="General Events" infoEventName="OnLogCheckpoint" infoEventRealName="OnLogCheckpoint" infoDescription="Occurs when a checkpoint is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743817" infoControlName="General Events" infoEventName="OnLogCloseNode" infoEventRealName="OnLogCloseNode" infoDescription="Occurs when the currently active parent node is closed in the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743816" infoControlName="General Events" infoEventName="OnLogCreateNode" infoEventRealName="OnLogCreateNode" infoDescription="Occurs when a parent node is created in the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743812" infoControlName="General Events" infoEventName="OnLogEvent" infoEventRealName="OnLogEvent" infoDescription="Occurs when an event notification is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743814" infoControlName="General Events" infoEventName="OnLogFile" infoEventRealName="OnLogFile" infoDescription="Occurs when a file is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743815" infoControlName="General Events" infoEventName="OnLogLink" infoEventRealName="OnLogLink" infoDescription="Occurs when a reference to a file is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743809" infoControlName="General Events" infoEventName="OnLogMessage" infoEventRealName="OnLogMessage" infoDescription="Occurs when an informative message is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743813" infoControlName="General Events" infoEventName="OnLogPicture" infoEventRealName="OnLogPicture" infoDescription="Occurs when an image is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743819" infoControlName="General Events" infoEventName="OnOverlappingWindow" infoEventRealName="OnOverlappingWindow" infoDescription="Occurs when an overlapping window appears." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743810" infoControlName="General Events" infoEventName="OnLogWarning" infoEventRealName="OnLogWarning" infoDescription="Occurs when a warning message is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743820" infoControlName="General Events" infoEventName="OnTimeout" infoEventRealName="OnTimeout" infoDescription="Occurs when a timeout expires in a project or in a project suite." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743818" infoControlName="General Events" infoEventName="OnUnexpectedWindow" infoEventRealName="OnUnexpectedWindow" infoDescription="Occurs when an unexpected window appears." />
+				<handlerInfo handlerName="GeneralEvents_OnLogError" handlerMoniker="{E6F411E6-B115-4947-B6FD-FECD8FB396B2}GeneralEvents_OnLogError" handlerEventName="OnLogError" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743811" />
+				<handlerInfo handlerName="GeneralEvents_OnLogWarning" handlerMoniker="{E6F411E6-B115-4947-B6FD-FECD8FB396B2}GeneralEvents_OnLogWarning" handlerEventName="OnLogWarning" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743810" />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
