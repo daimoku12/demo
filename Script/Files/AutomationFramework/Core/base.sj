@@ -1,3 +1,4 @@
+http://dean.edwards.name/weblog/2006/03/base/
 
 var Base = function()
 {
