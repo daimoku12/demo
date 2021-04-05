@@ -1,9 +1,4 @@
-/*
-Base.js, version 1.1a
-Copyright 2006-2010, Dean Edwards
-Old License: http://www.opensource.org/licenses/mit-license.php
-New License: Citi Group
-*/
+
 var Base = function()
 {
   //Dummy
